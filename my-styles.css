@@ -1,0 +1,47 @@
+  /* ----- MY STYLES ----- */
+
+  .button-panel {
+      display: inline-block;
+      margin: 0 10px;
+      position: relative;
+  }
+
+  .inner-container {
+      position: relative;
+  }
+
+  /* styles.css */
+
+  .pseudo-element {
+      content: "";
+      display: block;
+      position: absolute;
+      top: 4px;
+      left: 4px;
+      width: 100%;
+      height: 100%;
+      border-radius: 8px;
+      background-color: rgba(169, 169, 169, 0.5);
+      /* Přidejte barvu podle vašich potřeb */
+  }
+
+  .inverse-style {
+      color: '#000';
+  }
+
+  .is-first {
+      borderTopLeftRadius: '8px';
+      borderBottomLeftRadius: '8px';
+  }
+
+  .is-last {
+      borderTopRightRadius: '8px';
+      borderBottomRightRadius: '8px';
+  }
+
+  .panel-button {
+      border: none;
+      outline: none;
+  }
+
+  /* ----- END OF MY STYLES ----- */
