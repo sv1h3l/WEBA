@@ -1,6 +1,6 @@
 ## Webové aplikace
 
-Repozitář pro předmět  **Webové aplikace** (KMI/WEBA).
+Repozitář pro předmět  **Webové aplikace**.
 
 
 ####  Náplň předmětu
